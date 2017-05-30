@@ -1,0 +1,54 @@
+
+    #aBox {
+    width: 500px;
+    border: 25px solid orange;
+    padding: 25px;
+    margin: auto;
+    background: white;
+    z-index: 1;
+
+    }
+    
+    #aBox2 {
+    width: 500px;
+    border: 25px solid lemonchiffon;
+    padding: 25px;
+    margin: auto;
+    background: white;
+    z-index: 1;
+    
+    }
+
+
+    h1 {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+
+    color: white;
+    }
+
+    #getHoroscope {
+    color: blue;
+    size: 10px;
+    }
+
+    #quotet{
+    background: lightgrey;
+    border: red;
+    }
+
+    .giphy-embed{
+    z-index: 1;
+    margin: auto;
+    width: 100%;
+    position: absolute;
+    }
+
+    button{
+    background-color: white;
+    color: black;
+    border: 2px solid	#A9A9A9; /* Green */
+    margin-left:10px;
+    
+    }
